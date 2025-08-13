@@ -4,7 +4,8 @@ Welcome to the AgroIntelligence project! This repository contains a powerful, da
 🎥 Project Preview
 Get a quick look at the application in action! This video demonstrates the functionality of the model and the user interface.
 
-Watch the Preview Video Here
+Watch the Preview Video Here: "https://drive.google.com/file/d/1SWAR2zwdrlNJhomP7i3jvbsgOn1Zywdn/view?usp=sharing"
+
 
 📊 AP Crop Dataset (Deterministic, Realistic)
 This project is built on the apcrop_dataset_realistic.csv file, a rich dataset with 18,240 rows of simulated agricultural data.
