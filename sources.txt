@@ -1,0 +1,10 @@
+Sources used to build apcrop_dataset_realistic.csv
+
+NASA POWER API for monthly climate: https://power.larc.nasa.gov/docs/services/api/
+Soil Health Card / NRSC / NBSS-LUP referenced for soil type ranges: https://soilhealth.dac.gov.in/ and https://nrsc.gov.in/readmore_soil_health_card
+AP mandal/district lists references: https://codes.ap.gov.in/mandals and Andhra Pradesh govt portals
+Agmarknet / data.gov.in for mandi price trends (fallback deterministic values used): https://agmarknet.gov.in/ and https://data.gov.in/
+
+Notes:
+- NASA POWER used for district-level monthly climatology (monthly mean temperature and precipitation)
+- District soil averages are embedded deterministic estimates (based on state SHC summaries and NBSS literature)
